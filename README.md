@@ -113,23 +113,6 @@ Currently based in **Germany** 🇩🇪 | Open to **Enterprise Architect** & **S
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IssueNumber108&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssueNumber108&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IssueNumber108&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IssueNumber108&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
 ## 🎓 Certifications
 
 <p>
